@@ -9,13 +9,6 @@
     "publicKeyJwk": {
       "@id": "esrs2020:publicKeyJwk",
       "@type": "@json"
-    },
-    "privateKeyJwk": {
-      "@id": "esrs2020:privateKeyJwk",
-      "@type": "@json"
-    },
-    "publicKeyHex": "esrs2020:publicKeyHex",
-    "privateKeyHex": "esrs2020:privateKeyHex",
-    "ethereumAddress": "esrs2020:ethereumAddress"
+    }
   }
 }
